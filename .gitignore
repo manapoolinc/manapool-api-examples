@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 price_cache.json
 *.json
+
+.env
+config.json
